@@ -3,7 +3,7 @@ Create architectural diagram that serve as a teaching aid to help stakeholders u
 
 
 ## Assumptions 
-This app will be able to function on a single server and be used by 300 students.
+
 
 ## Constraints
-Are limitations or restrictions that the architecture must operate within. These are non-negotiable and must be adhered to during design and implementation.
+
